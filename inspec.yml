@@ -1,0 +1,9 @@
+name: cis-basic-demo
+title: CIS Benchmark Demo Profile
+maintainer: Akshay
+copyright: Akshay
+license: Apache-2.0
+summary: Basic CIS checks for Kubernetes demo
+version: 0.1.0
+supports:
+  - os-family: linux
